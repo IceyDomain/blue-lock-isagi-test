@@ -3,23 +3,20 @@
 
 > Open this page at [https://iceydomain.github.io/blue-lock-isagi-test/](https://iceydomain.github.io/blue-lock-isagi-test/)
 
-## Use as Extension
+## Controls
 
-This repository can be added as an **extension** in MakeCode.
+**Kick** - A/Space/z
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/iceydomain/blue-lock-isagi-test** and import
+**Steal** - B/Enter/x
 
-## Edit this project
+**Moves**
 
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/iceydomain/blue-lock-isagi-test** and click import
-
+* V
+* Shift
+* F
+* G
+* Alt
+  
 #### Metadata (used for search, rendering)
 
 * for PXT/arcade
