@@ -1,0 +1,44 @@
+{
+    "name": "Blue Lock Isagi test",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-tilemap-a-star": "github:jwunderl/arcade-tilemap-a-star#cb98c9eb79f085dcce133249fb2b22e7923e8c29",
+        "darts": "*",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "Extra Effects": "github:alexszeto/extra-effects#e2ab8e6d85d28bb1ae896619cb14ec70154f137f",
+        "beta-effects-sav1": "github:kiwiphoenix364/beta-effects-sav1#d9a2eb573a96da9cf86a98aa85d9f2a13d1b0617",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "radio-broadcast": "*",
+        "browser-events": "*",
+        "arcade-mini-menu": "github:Riknoll/arcade-mini-menu#v0.0.1",
+        "sprite-scaling": "*",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#3990483c33eac14e71e37570f7fca5df0ccfe1d1",
+        "pxt-sight": "github:felixtsu/pxt-sight#master",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.56",
+        "tag": "v2.0.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/2e47d3464cf6ea715ec6e630834bbe15bc2f6feb",
+        "target": "2.0.56",
+        "pxt": "11.3.59",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
